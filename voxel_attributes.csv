@@ -1,7 +1,7 @@
 name,area,amount_voxel,total_amount_voxel,facade_bound,stackability,floor_height
 str,int,int,int,int,int,int
-Student housing 4p,100,11,444,178,50,15
 Student housing 2p,60,7,267,107,50,11
+Student housing 4p,100,11,444,178,50,15
 Student housing 8p,200,22,444,178,50,18
 Elderly housing 1-2p,50,6,1111,444,50,18
 Starter housing 3p,85,9,708,283,50,15
