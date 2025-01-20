@@ -1,0 +1,21 @@
+name,area,amount_voxel,total_amount_voxel,facade_bound,stackability,floor_height
+str,int,int,int,int,int,int
+Student housing 4p,100,11,444,178,50,15
+Student housing 2p,60,7,267,107,50,11
+Student housing 8p,200,22,444,178,50,18
+Elderly housing 1-2p,50,6,1111,444,50,18
+Starter housing 3p,85,9,708,283,50,15
+Family housing 4p,110,12,611,244,50,11
+Starter housing 2p,65,7,542,217,50,15
+Physical center elderly ,400,44,44,11,1,4
+Working spaces,6400,237,237,119,6,9
+Supermarket,2400,89,89,0,2,2
+Bycicle parking,1200,133,133,0,1,0
+Parking,8568,952,952,0,50,5
+Care center ,1000,111,111,28,1,4
+Gym,2400,89,89,44,2,5
+Cafe ,300,33,33,17,2,0
+Restaurant,1600,59,59,20,2,2
+Bar,1200,44,44,9,2,0
+Lobby,1200,44,44,22,2,0
+Atrium,2000,74,74,74,7,0

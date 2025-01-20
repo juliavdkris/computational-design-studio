@@ -1,0 +1,21 @@
+name,view,sun,noise,wind_pollution,arch_highlights
+str,float,float,float,float,float
+Student housing 4p,0.5,0.4,0.6,0.3,0.4
+Student housing 2p,0.5,0.4,0.6,0.3,0.4
+Student housing 8p,0.5,0.4,0.6,0.3,0.4
+Elderly housing 1-2p,1,0.4,0,0,1
+Starter housing 3p,0.75,0.4,0.5,0.2,0.5
+Family housing 4p,0.75,0.4,0.2,0.2,0.7
+Starter housing 2p,0.5,0.4,0.5,0.2,0.5
+Physical center elderly ,0,0,0.2,1,0
+Working spaces,0.25,0.2,0.5,1,0.3
+Supermarket,0,0,0.7,1,0
+Bycicle parking,0,0,1,1,0
+Parking,0,0,1,1,0
+Care center ,0,0,0.2,1,0
+Gym,0.25,0,0.8,1,0.1
+Cafe ,0.25,0.2,0.7,0.5,0.1
+Restaurant,0.3,0.1,0.7,0.8,0.3
+Bar,0.1,0,0.8,1,0.1
+Lobby,0.1,0.3,0.5,0.5,0
+Atrium,0.5,0.3,0.5,0.3,0.1
