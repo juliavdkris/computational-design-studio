@@ -1,4 +1,4 @@
-dwelling,Student housing 4p,Student housing 2p,Student housing 8p,Elderly housing 1-2p,Starter housing 2p,Starter housing 3p,Family housing 4p,Supermarket ,Care center,Physical center elderly ,Gym,Working spaces,Cafe,Restaurant,Bar,Lobby,Parking ,Bycicle parking,Atrium,Biergarten,Nightclub
+dwelling,student4,student2,student8,elderly,starter2,starter3,family4,supermarket,care_center,physcial_center,gym,working_space,cafe,restaurant,bar,lobby,parking,bycicle_parking,atrium,biergarten,annabel
 str,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float
 Student housing 4p,1,0.5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
 Student housing 2p,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
