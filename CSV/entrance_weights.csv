@@ -1,0 +1,7 @@
+name,Bike_lane,metro,bus,car_lane,sidewalk,tram
+str,float,float,float,float,float,float
+Parking private,0,0,0,1,0,0
+Public parking,0,0,0,1,1,0
+Bike private,1,0.8,0,0,0,0
+Bike public,1,0.5,0,0,1,0
+Main entrances,0.5,1,1,0.5,1,1
